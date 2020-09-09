@@ -1,16 +1,16 @@
-# VBA Homework - The VBA of Wall Street
+# VBA - The VBA of Wall Street
 
 ## Background
 
-In this assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+Used VBA scripting to analyze real stock market data. 
 
 ### Stock market analyst
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
+## Overview
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* Created a script that looped through all the stocks for one year and outputed the following information.
 
   * The ticker symbol.
 
@@ -20,18 +20,18 @@ In this assignment you will use VBA scripting to analyze real stock market data.
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* Also included conditional formatting that highlighted positive change in green and negative change in red.
 
-* The result should look as follows.
+* The result to look as follows.
 
 ![moderate_solution](Images/moderate_solution.png)
 
-### CHALLENGES
+### Additional
 
-1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+1. The solution also able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution to look as follows:
 
 ![hard_solution](Images/hard_solution.png)
 
-2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+2. Made the appropriate adjustments to the VBA script to will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
